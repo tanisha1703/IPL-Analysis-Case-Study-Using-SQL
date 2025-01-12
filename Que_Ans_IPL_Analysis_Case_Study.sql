@@ -1,9 +1,6 @@
 -- IPL analysis Case Study Questions and Answers
 
--- Case study on @ iThinkData By Vaibhav Chavan
--- Subscribe to @ iThinkData For more SQL case study and Tutorials
 
--- Let's get started...
 
 
 -- A. Basic Level Questions
@@ -275,13 +272,4 @@ ORDER BY season, ranks;
 
 -- ------------------------------------
 
-  /*  
-   
-For more such SQL Case Study and Data Analysis related stuff, 
-Subscribe my youtube channel www.youtube.com/@iThinkData
 
-Github: www.github.com/vaibhavchavan20
-LinkedIn: www.linkedin.com/in/vaibhav-chavan
-WhatsApp: www.bit.ly/WhatsAppiThinkData 
-   
-*/
